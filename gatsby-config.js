@@ -5,6 +5,7 @@
  * https://www.gatsbyjs.com/docs/gatsby-config/
  *
  */
+require("dotenv").config()
 
 module.exports = {
   /**
