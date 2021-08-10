@@ -7,3 +7,6 @@ import "./src/css/normalize.css"
 
 // custom CSS styles
 import "./src/css/style.css"
+
+// custom SCSS styles
+// import "./src/scss/style.scss"

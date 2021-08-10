@@ -66,6 +66,8 @@ module.exports = {
         icon: `content/assets/gatsby-icon.png`,
       },
     },
+    // See https://www.gatsbyjs.com/plugins/gatsby-plugin-sass/
+    `gatsby-plugin-sass`,
 
     // See https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/?=gatsby-plugin-react-helmet
     `gatsby-plugin-react-helmet`,
